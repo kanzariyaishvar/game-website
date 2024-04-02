@@ -1,0 +1,175 @@
+@media (min-width:768px) and (max-width:992px){
+    header{
+        height: auto;
+    }
+    #section{
+        height: auto;
+        /* border:  10px solid black; */
+    }
+    #parent{
+        height: auto;
+        /* border: 10px solid black; */
+    }
+    #child-a{
+        display: none;
+        width: 100%;
+    }
+    #text{
+        width: 100%;
+    }
+    #child{
+        padding: 20px;
+        width: 100%;
+    }
+    #parent{
+        width: 100%;
+    }
+    #section-1{
+        height: auto;
+    }
+    #parent-1{
+        height: auto;
+    }
+    #section-2{
+        height: auto;
+    }
+    #parent-2{
+        height: auto;
+    }
+    #section-5{
+        height: auto;
+    }
+    #parent-5{
+        height: auto;
+    }
+    .left{
+        border: none;
+    }
+    .left-1{
+        border: none;
+    }
+    
+    footer{
+        height: auto;
+    }
+    #footer{
+        height: auto;
+    }
+    #blog{
+        height: auto;
+    }
+    #blog-1{
+        height: auto;
+    }
+    #message{
+        height: auto;
+    }
+    #dark{
+        height: 200px;
+    }
+    #contact-1{
+        height: auto;
+    }
+    
+    #contact-2{
+        height: auto;
+    }
+    #ser-1{
+        width: 70%;
+    }
+}
+@media (min-width:576px) and (max-width:768px){
+    header{
+        height: auto;
+    }
+    
+    #ser-1{
+        width: 70%;
+    }
+    #section{
+        height: auto;
+    }
+    #parent{
+        height: auto;
+    }
+    #child-a{
+        display: none;
+        width: 100%;
+    }
+    #text{
+        width: 100%;
+    }
+    #child{
+        padding: 20px;
+        width: 100%;
+    }
+    #parent{
+        width: 100%;
+    }
+    #section-1{
+        height: auto;
+    }
+    #child-1 img{
+        width: 60%;
+        margin-left: 20%;
+    }
+    #child-1 h2{
+        margin-left: 20%;
+    }
+    #section-2{
+        height: auto;
+    }
+    #parent-2{
+        height: auto;
+    }
+    #section-3{
+        height: auto;
+    }
+    #parent-3{
+        height: auto;
+    }
+    #section-4{
+        height: auto;
+    }
+    #parent-4{
+        height: auto;
+    }
+    #section-5{
+        height: auto;
+    }
+    #parent-5{
+        height: auto;
+    }
+    
+    .left{
+        border: none;
+    }
+    .left-1{
+        border: none;
+    }
+    footer{
+        height: auto;
+    }
+    #footer{
+        height: auto;
+    }
+    #blog{
+        height: auto;
+    }
+    #blog-1{
+        height: auto;
+    }
+    #message{
+        height:auto;
+    }
+    #dark{
+        height: 200px;
+    }
+    #contact-1{
+        height: auto;
+    }
+    
+    #contact-2{
+        height: auto;
+    }
+}
